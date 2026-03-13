@@ -46,7 +46,7 @@ class HeadTTS {
       frameRate: 40,
       audioSampleRate: 24000,
       languages: ['en-us'], // Language modules to be preloaded
-      dictionaryURL: "../dictionaries",
+      dictionaryURL: "./dictionaries",
       voiceURL: "https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX/resolve/main/voices",
       voices: [], // Voices to be pre-loaded
 
