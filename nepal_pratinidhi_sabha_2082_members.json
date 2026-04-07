@@ -20,7 +20,7 @@
       "name": "Balen Shah",
       "constituency_pr": "Jhapa 5",
       "party": "Rastriya Swatantra Party",
-      "position": "Parliamentary Party Leader | Prime Minister of Nepal(from March 27 2026)",
+      "position": "Parliamentary Party Leader | Prime Minister of Nepal (from March 27 2026) | Minister of Defence",
       "wikipedia_link": "https://en.wikipedia.org/wiki/Balen_Shah",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/The_official_portrait_of_Balendra_Shah%2C_the_Prime_Minister_of_Federal_Democratic_Republic_of_Nepal.png",
       "election_type": "Direct (FPTP)"
@@ -173,7 +173,7 @@
       "name": "Sobita Gautam",
       "constituency_pr": "Chitwan 3",
       "party": "Rastriya Swatantra Party",
-      "position": "Member of Parliament",
+      "position": "Minister of Law, Justice and Parliamentary Affairs",
       "wikipedia_link": "https://en.wikipedia.org/wiki/Sobita_Gautam",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sobita_Gautam%2C_official_portrait_%282025%29.jpg",
       "election_type": "Direct (FPTP)"
@@ -272,7 +272,7 @@
       "name": "Sudan Gurung",
       "constituency_pr": "Gorkha 1",
       "party": "Rastriya Swatantra Party",
-      "position": "Member of Parliament",
+      "position": "Minister of Home Affairs",
       "wikipedia_link": "https://en.wikipedia.org/wiki/Sudan_Gurung",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Sudhan_Gurung%2C_official_portrait_%282026%29.jpg",
       "election_type": "Direct (FPTP)"
@@ -434,7 +434,7 @@
       "name": "Khadak Raj Paudel",
       "constituency_pr": "Kaski 1",
       "party": "Rastriya Swatantra Party",
-      "position": "Member of Parliament",
+      "position": "Minister of Culture, Tourism and Civil Aviation",
       "wikipedia_link": "https://en.wikipedia.org/wiki/Khadak_Raj_Paudel",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Khadak_Raj_Paudel_official.jpg",
       "election_type": "Direct (FPTP)"
@@ -497,7 +497,7 @@
       "name": "Sasmit Pokharel",
       "constituency_pr": "Kathmandu 5",
       "party": "Rastriya Swatantra Party",
-      "position": "Member of Parliament",
+      "position": "Minister of Education, Science, Technology and Sports",
       "wikipedia_link": "https://en.wikipedia.org/wiki/Sasmit_Pokharel",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Sasmitportrait1.jpg",
       "election_type": "Direct (FPTP)"
@@ -506,7 +506,7 @@
       "name": "Shishir Khanal",
       "constituency_pr": "Kathmandu 6",
       "party": "Rastriya Swatantra Party",
-      "position": "Member of Parliament",
+      "position": "Minister of Foreign Affairs",
       "wikipedia_link": "https://en.wikipedia.org/wiki/Shishir_Khanal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Shishir_Khanal%2C_official_portrait_%282026%29.jpg",
       "election_type": "Direct (FPTP)"
@@ -524,7 +524,7 @@
       "name": "Biraj Bhakta Shrestha",
       "constituency_pr": "Kathmandu 8",
       "party": "Rastriya Swatantra Party",
-      "position": "Member of Parliament",
+      "position": "Minister of Energy, Water Resources and Irrigation",
       "wikipedia_link": "https://en.wikipedia.org/wiki/Biraj_Bhakta_Shrestha",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Biraj_Bhakta_Shrestha.jpg",
       "election_type": "Direct (FPTP)"
@@ -614,7 +614,7 @@
       "name": "Dipak Kumar Sah",
       "constituency_pr": "Mahottari 2",
       "party": "Rastriya Swatantra Party",
-      "position": "Member of Parliament",
+      "position": "Minister of Labour and Employment",
       "wikipedia_link": "https://en.wikipedia.org/wiki/Dipak_Kumar_Sah",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Dipak_Kumar_Sah%2C_official_portrait_%282026%29.jpg",
       "election_type": "Direct (FPTP)"
@@ -731,7 +731,7 @@
       "name": "Bikram Timilsina",
       "constituency_pr": "Nuwakot 1",
       "party": "Rastriya Swatantra Party",
-      "position": "Member of Parliament",
+      "position": "Minister of Communication and Information Technology",
       "wikipedia_link": "https://en.wikipedia.org/wiki/Bikram_Timilsina",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Official_Portrait_of_Bikram_Timilsina.jpg",
       "election_type": "Direct (FPTP)"
@@ -875,7 +875,7 @@
       "name": "Sunil Lamsal",
       "constituency_pr": "Rupandehi 1",
       "party": "Rastriya Swatantra Party",
-      "position": "Member of Parliament",
+      "position": "Minister of Physical Infrastructure, Transport and Urban Development",
       "wikipedia_link": "https://en.wikipedia.org/wiki/Sunil_Lamsal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Sunil_Lamsal%2C_official_portrait_%282026%29.jpg",
       "election_type": "Direct (FPTP)"
@@ -1109,7 +1109,7 @@
       "name": "Swarnim Wagle",
       "constituency_pr": "Tanahun 1",
       "party": "Rastriya Swatantra Party",
-      "position": "Member of Parliament",
+      "position": "Minister of Finance",
       "wikipedia_link": "https://en.wikipedia.org/wiki/Swarnim_Wagle",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Swarnim_Wagle%2C_official_portrait_%282026%29.jpg",
       "election_type": "Direct (FPTP)"
@@ -1289,7 +1289,7 @@
       "name": "Pratibha Rawal",
       "constituency_pr": "Khas Arya, Female",
       "party": "Rastriya Swatantra Party",
-      "position": "Member of Parliament",
+      "position": "Minister of Federal Affairs and General Administration",
       "wikipedia_link": "https://en.wikipedia.org/wiki/Pratibha_Rawal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Pratibha_Rawal%2C_official_portrait_%282026%29.png",
       "election_type": "Proportional Representation"
@@ -1460,7 +1460,7 @@
       "name": "Sita Badi",
       "constituency_pr": "Dalit, Female",
       "party": "Rastriya Swatantra Party",
-      "position": "Member of Parliament",
+      "position": "Minister of Women, Children and Senior Citizens",
       "wikipedia_link": "https://en.wikipedia.org/wiki/Sita_Badi",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Sita_Badi.jpg",
       "election_type": "Proportional Representation"
@@ -1514,7 +1514,7 @@
       "name": "Geeta Chaudhary",
       "constituency_pr": "Tharu, Female",
       "party": "Rastriya Swatantra Party",
-      "position": "Member of Parliament",
+      "position": "Minister of Agriculture, Livestock, Forest and Environment",
       "wikipedia_link": "https://en.wikipedia.org/wiki/Geeta_Chaudhary",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Gita_Chaudhary%2C_portrait_%282026%29.jpg",
       "election_type": "Proportional Representation"
@@ -1559,7 +1559,7 @@
       "name": "Nisha Mehta",
       "constituency_pr": "Madheshi, Female",
       "party": "Rastriya Swatantra Party",
-      "position": "Member of Parliament",
+      "position": "Minister of Health, Population and Drinking Water",
       "wikipedia_link": "https://en.wikipedia.org/wiki/Nisha_Mehta",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Nisha_Mehta_%28cropped%29.jpg",
       "election_type": "Proportional Representation"
